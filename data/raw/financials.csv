@@ -1,0 +1,7 @@
+company,statement_type,account_name,period,value
+AAPL,IncomeStatement,Revenue,2022,365817
+AAPL,IncomeStatement,Revenue,2023,383285
+AAPL,IncomeStatement,NetIncome,2022,99803
+AAPL,IncomeStatement,NetIncome,2023,96995
+AAPL,CashFlowStatement,OperatingCashFlow,2022,122151
+AAPL,CashFlowStatement,OperatingCashFlow,2023,110543
