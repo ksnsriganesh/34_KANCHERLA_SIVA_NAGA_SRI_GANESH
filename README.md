@@ -50,9 +50,3 @@ The result is a transparent, grounded, and reviewable AI-generated financial ana
 - Vector databases (FAISS, ChromaDB)
 - Multi-agent orchestration
 - Markdown-based report generation
-
----
-
-## Disclaimer
-This system generates first-draft analytical content intended for human review.  
-It is not a substitute for professional financial judgment or regulatory compliance.
